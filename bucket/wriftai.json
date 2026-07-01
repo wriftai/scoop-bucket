@@ -1,19 +1,19 @@
 {
-    "version": "0.52.2",
+    "version": "0.52.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wriftai/cli/releases/download/v0.52.2/wriftai_Windows_x86_64.zip",
+            "url": "https://github.com/wriftai/cli/releases/download/v0.52.3/wriftai_Windows_x86_64.zip",
             "bin": [
                 "wriftai.exe"
             ],
-            "hash": "c901790e74c8de92bc99b741609798ea8372b100fb526e6de4ec269791ff9e07"
+            "hash": "db626cefc0ada377b2db4b637e70c1b03036f2c7cb90878c6a7a804ac668006e"
         },
         "arm64": {
-            "url": "https://github.com/wriftai/cli/releases/download/v0.52.2/wriftai_Windows_arm64.zip",
+            "url": "https://github.com/wriftai/cli/releases/download/v0.52.3/wriftai_Windows_arm64.zip",
             "bin": [
                 "wriftai.exe"
             ],
-            "hash": "1b0e90e96fdcb4fc74b86150dab1d40d5e141b3a301a18d1f7752d5a2e57fe25"
+            "hash": "495e61c91a02aa3317715b5a295d039495c8bf10a0f151989b5ae7e4d9bfeecb"
         }
     },
     "homepage": "https://github.com/wriftai/cli",
